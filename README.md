@@ -3,7 +3,7 @@
  <tr>
     <td VALIGN=TOP>
      <img src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" alt="ReactNative"/>
-     <h3>REACT NATIVE PROJECTp - GITHUB_EXPLORER</h3>
+     <h3>REACT NATIVE PROJECT - GITHUB_EXPLORER</h3>
       <p>This project was built as one of the challenges on the @Rocketseat - Ignite course.</p>
      <li>Enter a github repository path</li>
      <li>Add it to your list</li>
