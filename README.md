@@ -1,3 +1,19 @@
+<div align="center">
+   <img align="right" src="https://i.ibb.co/rtkgxnm/IMG-3476.png" alt="thumbnail" width="200"/>  
+   <img align="left" src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" alt="ReactNative"/>
+   </br>
+   <h3 align="left">REACT NATIVE PROJECT - GITHUB_EXPLORER</h3>
+
+   <p align="left">This project was built as one of the challenges on the @Rocketseat - Ignite course.</p>
+   <div align="left">
+      <li>Enter a github repository path</li>
+      <li>Add it to your list</li>
+      <li>Swipe left to remove from your list</li>
+   </div>
+</div>
+
+
+<!-- 
 
 <table border="0">
  <tr>
@@ -14,4 +30,4 @@
     <img src="https://i.ibb.co/rtkgxnm/IMG-3476.png" alt="thumbnail" width="200"/>  
    </td>
  </tr>
-</table>
+</table> -->
